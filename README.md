@@ -1,3 +1,4 @@
+![Screenshot 2024-10-31 190708](https://github.com/user-attachments/assets/5e60ed35-e034-4659-8dde-8e6334283d41)
 # Zerodha App Landing Page
 
 This repository contains a simple HTML and CSS project for a Zerodha app landing page, created as part of Week 0 in the 0-100xDev Cohort. The page structure highlights essential web design techniques through a clean and responsive layout.
